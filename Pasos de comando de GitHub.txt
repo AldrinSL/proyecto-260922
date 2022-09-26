@@ -1,0 +1,6 @@
+Paso 1: Inicia un repositorio local con el nombre.
+Paso 2: Dentro de la carpeta del proyecto, inicia un repositorio en esta carpeta.
+Paso 3: Clona el repositorio que haya en GitHub WEB.
+Paso 4: Voy a modificar este fichero en remoto, y guardar sus cambios
+Paso 5:
+Paso 6:
